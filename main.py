@@ -6,9 +6,9 @@
 # Repl.it AOC Python Runner
 import runner
 
-# runner.run(day=input("AOC code by Ben Gondzur, template by Scoder12\n1: input\n2: passwords\n3: trees\n4: passports\n5: seats\n6: questions\nWhat AOC day do you want to run?: "))
+runner.run(day=input("AOC code by Ben Gondzur, template by Scoder12\n1: input\n2: passwords\n3: trees\n4: passports\n5: seats\n6: questions\n7: \n8: \n9:\nWhat AOC day do you want to run?: "))
 
-runner.run(day = 8)
+# runner.run(day = 8)
 
 # Instructions:
 # For each day, create a new python file and a puzzle input file consisting
